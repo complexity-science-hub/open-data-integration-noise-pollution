@@ -2,6 +2,8 @@
 
 data from http://www.laerminfo.at/laermkarten/methoden/inspire.html should be downloaded and extracted (unzipped manually). Finally, the directory needs to look similar to:
 
+> NOTE without: `geplanter-umfang_2017_noise`
+
 ```bash
 ├── flug_2017_noise
 │   ├── INSPIRE_2017_FLUGHAEFEN_24H_ZONEN_KT
@@ -16,13 +18,6 @@ data from http://www.laerminfo.at/laermkarten/methoden/inspire.html should be do
 │   ├── INSPIRE_2017_FLUGHAEFEN_NACHT_ZONEN_ST
 │   ├── INSPIRE_2017_FLUGHAEFEN_NACHT_ZONEN_TI
 │   └── INSPIRE_2017_FLUGHAEFEN_NACHT_ZONEN_WI
-├── geplanter-umfang_2017_noise
-│   ├── 2017_PLAN_AUTOBAHN_LINIENQUELLEN
-│   ├── 2017_PLAN_BALLUNGSRAEUME
-│   ├── 2017_PLAN_EISENBAHN_LINIENQUELLEN
-│   ├── 2017_PLAN_FLUGHAEFEN_STANDORTE
-│   ├── 2017_PLAN_LANDESSTRASSEN_LINIENQUELLEN
-│   └── AT_a_DF1_5_2015_del.xls
 ├── industrie_2017_noise
 │   ├── INSPIRE_2017_IPPC_24H_ZONEN_NO
 │   ├── INSPIRE_2017_IPPC_24H_ZONEN_OO
