@@ -7,3 +7,4 @@ hvplot
 h3
 descartes
 dask[complete]
+tqdm
